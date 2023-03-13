@@ -1,0 +1,16 @@
+C:\Users\test\source\repos\AssaultCubeWPF\WpfApp1\obj\x86\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\test\source\repos\AssaultCubeWPF\WpfApp1\obj\x86\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\test\source\repos\AssaultCubeWPF\WpfApp1\obj\x86\Debug\MainWindow.g.cs
+C:\Users\test\source\repos\AssaultCubeWPF\WpfApp1\obj\x86\Debug\App.g.cs
+C:\Users\test\source\repos\AssaultCubeWPF\WpfApp1\obj\x86\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\test\source\repos\AssaultCubeWPF\WpfApp1\obj\x86\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\test\source\repos\AssaultCubeWPF\WpfApp1\bin\x86\Debug\WpfApp1.exe.config
+C:\Users\test\source\repos\AssaultCubeWPF\WpfApp1\bin\x86\Debug\WpfApp1.exe
+C:\Users\test\source\repos\AssaultCubeWPF\WpfApp1\bin\x86\Debug\WpfApp1.pdb
+C:\Users\test\source\repos\AssaultCubeWPF\WpfApp1\obj\x86\Debug\MainWindow.baml
+C:\Users\test\source\repos\AssaultCubeWPF\WpfApp1\obj\x86\Debug\WpfApp1.g.resources
+C:\Users\test\source\repos\AssaultCubeWPF\WpfApp1\obj\x86\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\test\source\repos\AssaultCubeWPF\WpfApp1\obj\x86\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\test\source\repos\AssaultCubeWPF\WpfApp1\obj\x86\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\test\source\repos\AssaultCubeWPF\WpfApp1\obj\x86\Debug\WpfApp1.exe
+C:\Users\test\source\repos\AssaultCubeWPF\WpfApp1\obj\x86\Debug\WpfApp1.pdb

@@ -1,0 +1,16 @@
+C:\Users\test\Downloads\maplestroyWPF\WpfApp1\bin\x64\Release\MapleStoryWPF.exe.config
+C:\Users\test\Downloads\maplestroyWPF\WpfApp1\bin\x64\Release\MapleStoryWPF.exe
+C:\Users\test\Downloads\maplestroyWPF\WpfApp1\bin\x64\Release\MapleStoryWPF.pdb
+C:\Users\test\Downloads\maplestroyWPF\WpfApp1\obj\x64\Release\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\test\Downloads\maplestroyWPF\WpfApp1\obj\x64\Release\WpfApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\test\Downloads\maplestroyWPF\WpfApp1\obj\x64\Release\MainWindow.g.cs
+C:\Users\test\Downloads\maplestroyWPF\WpfApp1\obj\x64\Release\App.g.cs
+C:\Users\test\Downloads\maplestroyWPF\WpfApp1\obj\x64\Release\MapleStoryWPF_MarkupCompile.cache
+C:\Users\test\Downloads\maplestroyWPF\WpfApp1\obj\x64\Release\MapleStoryWPF_MarkupCompile.lref
+C:\Users\test\Downloads\maplestroyWPF\WpfApp1\obj\x64\Release\MainWindow.baml
+C:\Users\test\Downloads\maplestroyWPF\WpfApp1\obj\x64\Release\MapleStoryWPF.g.resources
+C:\Users\test\Downloads\maplestroyWPF\WpfApp1\obj\x64\Release\MapleStoryWPF.Properties.Resources.resources
+C:\Users\test\Downloads\maplestroyWPF\WpfApp1\obj\x64\Release\WpfApp1.csproj.GenerateResource.cache
+C:\Users\test\Downloads\maplestroyWPF\WpfApp1\obj\x64\Release\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\test\Downloads\maplestroyWPF\WpfApp1\obj\x64\Release\MapleStoryWPF.exe
+C:\Users\test\Downloads\maplestroyWPF\WpfApp1\obj\x64\Release\MapleStoryWPF.pdb
