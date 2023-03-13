@@ -9,8 +9,6 @@ NoDmg
 FastDrop
 MobFollow
 FastAttack
-AutoRune (show on this vedio   
-
- • FasterRUNE  )
+AutoRune (show on this vedio   https://youtu.be/FQUz4WKA1yk?t=85  )
 please use 0.25 play watch
 Flash On Mob And Item
